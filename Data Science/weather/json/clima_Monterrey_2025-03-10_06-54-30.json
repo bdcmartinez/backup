@@ -1,0 +1,14 @@
+{
+    "ciudad": "Monterrey",
+    "pais": "MX",
+    "temperatura": 12.54,
+    "sensacion_termica": 11.13,
+    "temperatura_min": 9.37,
+    "temperatura_max": 12.54,
+    "humedad": 49,
+    "presion": 1023,
+    "velocidad_viento": 1.11,
+    "visibilidad": 10000,
+    "descripcion_clima": "Cielo claro",
+    "fecha_consulta": "2025-03-10 06:54:30"
+}
